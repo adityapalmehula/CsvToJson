@@ -1,0 +1,19 @@
+// Final Project code compile and run.....
+
+1- Compile exceptions classes -
+javac  -d "/home/kls103/Desktop/csvtojsonconverter/classes"  *.java
+
+2- compile validators file-
+javac -cp ".:/home/kls103/Desktop/csvtojsonconverter/libs/log4j-1.2.17.jar:/home/kls103/Desktop/csvtojsonconverter/classes" -d "/home/kls103/Desktop/csvtojsonconverter/classes"  *.java
+
+3- process file compile file -
+
+javac -cp ".:/home/kls103/Desktop/csvtojsonconverter/libs/log4j-1.2.17.jar:/home/kls103/Desktop/csvtojsonconverter/libs/json-simple-1.1.1.jar" -d "/home/kls103/Desktop/csvtojsonconverter/classes"  *.java
+
+4- main file compile and run -
+javac -cp ".:/home/kls103/Desktop/csvtojsonconverter/libs/log4j-1.2.17.jar:/home/kls103/Desktop/csvtojsonconverter/classes" -d "/home/kls103/Desktop/csvtojsonconverter/classes"  *.java
+
+To run program go outside the class folder --
+
+java -cp ".:/home/kls103/Desktop/csvtojsonconverter/libs/log4j-1.2.17.jar:/home/kls103/Desktop/csvtojsonconverter/libs/json-simple-1.1.1.jar:/home/kls103/Desktop/csvtojsonconverter/classes" com.ncu.main.JSONConverter
+

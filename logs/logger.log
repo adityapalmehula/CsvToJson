@@ -1,0 +1,385 @@
+2018-12-17 05:59:25 ERROR CsvValidatorClass:86 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 05:59:25 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 05:59:32 ERROR CsvValidatorClass:92 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2018-12-17 05:59:32 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 05:59:44 ERROR CsvValidatorClass:101 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 05:59:44 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:53:43 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:53:46 ERROR CsvValidatorClass:90 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 06:53:46 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:53:50 ERROR CsvValidatorClass:96 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2018-12-17 06:53:50 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:53:56 ERROR CsvValidatorClass:101 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not csv file This System Accept Only Csv file ...!"
+
+2018-12-17 06:53:56 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:54:05 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 06:54:05 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:54:21 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 06:54:21 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:54:33 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 06:54:33 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 06:54:38 INFO  CsvValidatorClass:241 - ----------- All Available Files In Directory --------- 
+2018-12-17 06:54:38 INFO  CsvValidatorClass:245 - -test.csv
+2018-12-17 06:54:38 INFO  CsvValidatorClass:245 - -ipl.csv
+2018-12-17 06:54:38 INFO  CsvValidatorClass:247 - ------------------------------------------------------ 
+2018-12-17 06:54:38 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:54:50 ERROR CsvValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 06:54:50 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:54:55 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 06:54:55 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 06:54:56 INFO  CsvValidatorClass:241 - ----------- All Available Files In Directory --------- 
+2018-12-17 06:54:56 INFO  CsvValidatorClass:245 - -test.csv
+2018-12-17 06:54:56 INFO  CsvValidatorClass:245 - -ipl.csv
+2018-12-17 06:54:56 INFO  CsvValidatorClass:247 - ------------------------------------------------------ 
+2018-12-17 06:54:56 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 06:55:06 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 06:55:16 INFO  ConversionClass:54 - Do You Want To Convert This Csv data into Json ..? Please Press y/n :-
+2018-12-17 06:55:23 INFO  ConversionClass:61 - -------------------------- Time Duration --------------------------
+2018-12-17 06:55:23 INFO  ConversionClass:62 - Time Before Process :- Mon Dec 17 06:55:23 IST 2018
+2018-12-17 06:55:23 INFO  ConversionClass:89 - Time After Process :- Mon Dec 17 06:55:23 IST 2018
+2018-12-17 06:55:23 INFO  ConversionClass:92 - Duration In MilliSecond -: 5ms
+2018-12-17 06:55:23 INFO  ConversionClass:93 - -----------------------------------------------------------------
+2018-12-17 06:55:23 INFO  ConversionClass:102 - ______! Successfully Converted This File Into Json - (*.*)
+2018-12-17 06:55:23 INFO  ConversionClass:103 - 
+ 
+ 'Notice' - You Can Get Your testttttt.json On Path - '/home/kls103/Desktop/csvtojsonconverter/jsons/'
+
+
+2018-12-17 06:55:23 INFO  JSONConverter:119 - Do You Want Exit . Please Press - exit 
+2018-12-17 06:55:23 INFO  JSONConverter:120 - Or Press Any Key To Continue Program - 
+2018-12-17 07:11:12 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:11:19 ERROR CsvValidatorClass:90 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:11:19 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:11:23 ERROR CsvValidatorClass:96 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2018-12-17 07:11:23 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:11:27 ERROR CsvValidatorClass:101 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not csv file This System Accept Only Csv file ...!"
+
+2018-12-17 07:11:27 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:11:37 ERROR CsvValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:11:37 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:11:48 ERROR CsvValidatorClass:96 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2018-12-17 07:11:48 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:11:57 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:11:57 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:12:39 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 07:12:39 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 07:12:41 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:12:46 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 07:12:46 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 07:12:49 INFO  CsvValidatorClass:241 - ----------- All Available Files In Directory --------- 
+2018-12-17 07:12:49 INFO  CsvValidatorClass:245 - -test.csv
+2018-12-17 07:12:49 INFO  CsvValidatorClass:245 - -ipl.csv
+2018-12-17 07:12:49 INFO  CsvValidatorClass:247 - ------------------------------------------------------ 
+2018-12-17 07:12:49 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:12:57 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:13:01 ERROR JsonValidatorClass:86 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:13:01 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:13:04 ERROR JsonValidatorClass:91 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .json Extension ...!"
+
+2018-12-17 07:13:04 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:13:17 ERROR JsonValidatorClass:101 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:13:17 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:13:31 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:13:31 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:13:42 ERROR JsonValidatorClass:106 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: 
+
+2018-12-17 07:13:42 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:16:49 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:17:00 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:02 ERROR JsonValidatorClass:86 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:17:02 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:04 ERROR JsonValidatorClass:91 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .json Extension ...!"
+
+2018-12-17 07:17:04 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:08 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:17:08 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:28 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:17:28 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:39 ERROR JsonValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:17:39 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:47 ERROR JsonValidatorClass:101 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:17:47 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:17:57 ERROR JsonValidatorClass:78 - Oops.. This File Is Already Exist Into Directory , Please Try With Different Name...!
+
+2018-12-17 07:17:57 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:21:04 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:21:07 ERROR CsvValidatorClass:90 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:21:07 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:21:10 ERROR CsvValidatorClass:96 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2018-12-17 07:21:10 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:21:13 ERROR CsvValidatorClass:101 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not csv file This System Accept Only Csv file ...!"
+
+2018-12-17 07:21:13 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:21:35 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:21:35 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:21:49 ERROR CsvValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:21:49 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:22:19 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:22:19 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:22:27 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 07:22:27 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 07:22:29 INFO  CsvValidatorClass:241 - ----------- All Available Files In Directory --------- 
+2018-12-17 07:22:29 INFO  CsvValidatorClass:245 - -test.csv
+2018-12-17 07:22:29 INFO  CsvValidatorClass:245 - -ipl.csv
+2018-12-17 07:22:29 INFO  CsvValidatorClass:247 - ------------------------------------------------------ 
+2018-12-17 07:22:29 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:22:34 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:22:40 ERROR JsonValidatorClass:86 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:22:40 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:22:43 ERROR JsonValidatorClass:91 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .json Extension ...!"
+
+2018-12-17 07:22:43 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:22:50 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:22:50 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:23:09 ERROR JsonValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:23:09 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:23:20 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:23:20 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:23:31 ERROR JsonValidatorClass:101 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:23:31 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:23:47 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:23:47 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:23:56 ERROR JsonValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:23:56 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:24:06 ERROR JsonValidatorClass:101 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:24:06 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:24:22 INFO  ConversionClass:54 - Do You Want To Convert This Csv data into Json ..? Please Press y/n :-
+2018-12-17 07:24:25 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:24:30 INFO  ConversionClass:54 - Do You Want To Convert This Csv data into Json ..? Please Press y/n :-
+2018-12-17 07:24:32 INFO  ConversionClass:61 - -------------------------- Time Duration --------------------------
+2018-12-17 07:24:32 INFO  ConversionClass:62 - Time Before Process :- Mon Dec 17 07:24:32 IST 2018
+2018-12-17 07:24:32 INFO  ConversionClass:89 - Time After Process :- Mon Dec 17 07:24:32 IST 2018
+2018-12-17 07:24:32 INFO  ConversionClass:92 - Duration In MilliSecond -: 5ms
+2018-12-17 07:24:32 INFO  ConversionClass:93 - -----------------------------------------------------------------
+2018-12-17 07:24:32 INFO  ConversionClass:102 - ______! Successfully Converted This File Into Json - (*.*)
+2018-12-17 07:24:32 INFO  ConversionClass:103 - 
+ 
+ 'Notice' - You Can Get Your comp.json On Path - '/home/kls103/Desktop/csvtojsonconverter/jsons/'
+
+
+2018-12-17 07:24:32 INFO  JSONConverter:119 - Do You Want Exit . Please Press - exit 
+2018-12-17 07:24:32 INFO  JSONConverter:120 - Or Press Any Key To Continue Program - 
+2018-12-17 07:24:40 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:18 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:24 ERROR CsvValidatorClass:90 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:30:24 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:27 ERROR CsvValidatorClass:96 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2018-12-17 07:30:27 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:33 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:30:33 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:41 ERROR CsvValidatorClass:111 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:30:41 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:48 ERROR CsvValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:30:48 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:30:55 ERROR CsvValidatorClass:101 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not csv file This System Accept Only Csv file ...!"
+
+2018-12-17 07:30:55 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:31:00 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 07:31:00 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 07:31:02 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:31:05 INFO  CsvValidatorClass:229 - 
+ 
+com.ncu.exceptions.FileNotAvailable: "Oops.. Given File Is File Is Not Available Into Our Directory ...!"
+
+2018-12-17 07:31:05 INFO  CsvValidatorClass:230 - Do You Want To See List Of Available csv file Press - y/n  
+2018-12-17 07:31:07 INFO  CsvValidatorClass:241 - ----------- All Available Files In Directory --------- 
+2018-12-17 07:31:07 INFO  CsvValidatorClass:245 - -test.csv
+2018-12-17 07:31:07 INFO  CsvValidatorClass:245 - -ipl.csv
+2018-12-17 07:31:07 INFO  CsvValidatorClass:247 - ------------------------------------------------------ 
+2018-12-17 07:31:07 INFO  JSONConverter:52 -  !...(*.*) Please Enter Your Csv File Name __:- 
+2018-12-17 07:31:15 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:31:32 ERROR JsonValidatorClass:86 - 
+ 
+com.ncu.exceptions.EmptyNameException: "Oops.. Empty Filename Is Not Acceptable ...!"
+
+2018-12-17 07:31:32 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:31:35 ERROR JsonValidatorClass:91 - 
+ 
+com.ncu.exceptions.FileFormatException: "Oops.. Extension Is Messing .You Should Also Give .json Extension ...!"
+
+2018-12-17 07:31:35 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:31:38 ERROR JsonValidatorClass:96 - 
+ 
+com.ncu.exceptions.InvalidFileException: "Oops.. This is not json file ! This System Accept Only json file ...!"
+
+2018-12-17 07:31:38 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:31:46 ERROR JsonValidatorClass:106 - 
+ 
+com.ncu.exceptions.FileNameLengthException: "You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2018-12-17 07:31:46 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:31:51 ERROR JsonValidatorClass:101 - 
+ 
+com.ncu.exceptions.SpecialCharacterException: "Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2018-12-17 07:31:51 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:32:23 ERROR JsonValidatorClass:78 - Oops.. This File Is Already Exist Into Directory , Please Try With Different Name...!
+
+2018-12-17 07:32:23 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:32:43 INFO  ConversionClass:54 - Do You Want To Convert This Csv data into Json ..? Please Press y/n :-
+2018-12-17 07:32:46 INFO  JSONConverter:87 - !...(*.*) What Will Be Your Converted File Name, Please Enter__:- 
+2018-12-17 07:32:54 INFO  ConversionClass:54 - Do You Want To Convert This Csv data into Json ..? Please Press y/n :-
+2018-12-17 07:32:58 INFO  ConversionClass:61 - -------------------------- Time Duration --------------------------
+2018-12-17 07:32:58 INFO  ConversionClass:62 - Time Before Process :- Mon Dec 17 07:32:58 IST 2018
+2018-12-17 07:32:58 INFO  ConversionClass:89 - Time After Process :- Mon Dec 17 07:32:58 IST 2018
+2018-12-17 07:32:58 INFO  ConversionClass:92 - Duration In MilliSecond -: 59ms
+2018-12-17 07:32:58 INFO  ConversionClass:93 - -----------------------------------------------------------------
+2018-12-17 07:32:58 INFO  ConversionClass:102 - ______! Successfully Converted This File Into Json - (*.*)
+2018-12-17 07:32:58 INFO  ConversionClass:103 - 
+ 
+ 'Notice' - You Can Get Your ipl2.json On Path - '/home/kls103/Desktop/csvtojsonconverter/jsons/'
+
+
+2018-12-17 07:32:58 INFO  JSONConverter:119 - Do You Want Exit . Please Write - exit 
+2018-12-17 07:32:58 INFO  JSONConverter:120 - Or Write Any Key To Continue Program - 
